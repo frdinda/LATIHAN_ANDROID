@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jajar Genjang</string>
+    <string name="alas">Masukkan Alas</string>
+    <string name="tinggi">Masukkan Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="deskripsi">Rumus mencari luas jajar genjang adalah Luas (L) = Alas x Tinggi</string>
+</resources>
